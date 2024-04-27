@@ -1,0 +1,8 @@
+<Salutation>,
+I am nameless and shameless,
+My nick name is <Your Full Name>, 
+I am from <Home location>,
+My factory was <Your coaching centre name in full form>,
+I'm pursuing Bachelor of Technology  course in the department of <Full name of your department>,
+My hobbies are <Your hobbies,interests>. 
+I expect seniors to be <Expectation from Seniors>
